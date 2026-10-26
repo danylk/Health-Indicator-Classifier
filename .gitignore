@@ -1,0 +1,16 @@
+# Dataset files (download from Kaggle; see data/README.md)
+data/*.csv
+
+# Large generated figures
+docs/images/decision_tree_*.png
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
