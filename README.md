@@ -10,7 +10,7 @@ Built for DS 4400 *Machine Learning and Data Mining 1* at Northeastern Universit
 
 ## Problem
 
-| | |
+| Aspect | Details |
 |---|---|
 | **Dataset** | [Smoking and Drinking Dataset with body signal](https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset): ~991k records from the National Health Insurance Service in Korea |
 | **Targets** | Drinking status (`DRK_YN`) and smoking status (`SMK_stat_type_cd`), each binary |
